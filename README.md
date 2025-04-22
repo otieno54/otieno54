@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Bill Humphrey Oduor, a Software Engineer with skills in machine learning and AI 🤖, full-stack web development 🌐, and mobile app development using React Native 📱. I have a strong background in software design 🧩, software architecture 🏗️, software metrics 📊, and software verification and validation ✅. My work revolves around leveraging technology to build practical applications that solve real-world problems 🌍.
+I'm Bill Humphrey Oduor, a Software Engineer with skills in machine learning and AI 🤖, full-stack web development 🌐, and mobile app development using React Native 📱. I have a strong background in software design 🧩, software architecture 🏗️,system security, software metrics 📊, and software verification and validation ✅. My work revolves around leveraging technology to build practical applications that solve real-world problems 🌍.
 
 I enjoy exploring new challenges and technologies 🚀 to stay ahead in the ever-evolving tech landscape. Whether I'm working on mobile apps, web apps, or intelligent systems, I'm always eager to create impactful solutions 💡. Feel free to explore my repositories or reach out if you're interested in collaborating 🤝!
 
